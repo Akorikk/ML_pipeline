@@ -1,0 +1,8 @@
+[2024-09-05 18:18:06,881] werkzeug - WARNING -  * Debugger is active!
+[2024-09-05 18:18:06,892] werkzeug - INFO -  * Debugger PIN: 710-540-117
+[2024-09-05 18:19:32,917] root - INFO - Testing
+[2024-09-05 18:19:32,918] werkzeug - INFO - 127.0.0.1 - - [05/Sep/2024 18:19:32] "GET / HTTP/1.1" 200 -
+[2024-09-05 18:19:32,965] werkzeug - INFO - 127.0.0.1 - - [05/Sep/2024 18:19:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-09-05 18:20:30,066] root - INFO - Testing
+[2024-09-05 18:20:30,068] werkzeug - INFO - 127.0.0.1 - - [05/Sep/2024 18:20:30] "GET / HTTP/1.1" 200 -
+[2024-09-05 18:20:30,215] werkzeug - INFO - 127.0.0.1 - - [05/Sep/2024 18:20:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
